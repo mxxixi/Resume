@@ -143,10 +143,10 @@ var config = {
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "./images/intro-bg.jpg",
+        // "./images/intro-bg.jpg",
         "./images/2.bmp",
-        "./images/work-bk.jpg",
-        "./images/4.jpg"
+        // "./images/work-bk.jpg",
+        // "./images/4.jpg"
     ]
 
 }
